@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "678FBBC92764126E2EE1D65B1401BF97"
-               BuildableName = "Pods_Tutorial3_Navigation.framework"
-               BlueprintName = "Pods-Tutorial3_Navigation"
+               BlueprintIdentifier = "D7013AB4151D8E909F372BE4870D3869"
+               BuildableName = "Pods_iOS_Trening1.framework"
+               BlueprintName = "Pods-iOS_Trening1"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

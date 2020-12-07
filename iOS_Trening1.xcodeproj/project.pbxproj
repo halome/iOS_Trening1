@@ -13,7 +13,6 @@
 		0726A9C0257EC9C8002EFA33 /* ListViewActionsDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0726A9BF257EC9C8002EFA33 /* ListViewActionsDelegate.swift */; };
 		075E2A6B2578ECAA0016810B /* UsersService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 075E2A6A2578ECAA0016810B /* UsersService.swift */; };
 		0772F95F257D0C89004A1284 /* ListViewCategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0772F95E257D0C89004A1284 /* ListViewCategoryRow.swift */; };
-		0772F963257D39EE004A1284 /* Netflix.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0772F962257D39EE004A1284 /* Netflix.jpg */; };
 		0772F966257D3B0A004A1284 /* Godfather.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0772F965257D3B0A004A1284 /* Godfather.jpg */; };
 		0772F96C257E313A004A1284 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0772F96B257E313A004A1284 /* User.swift */; };
 		07C6C48E2577E3B30018B66F /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C6C48D2577E3B30018B66F /* HomeView.swift */; };
@@ -31,7 +30,6 @@
 		07E6775A25756B6700896DC5 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E6775925756B6700896DC5 /* LoginView.swift */; };
 		07E6776F2576594A00896DC5 /* UIView+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E6776E2576594A00896DC5 /* UIView+Ext.swift */; };
 		07E6781A2576BC2300896DC5 /* ListViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E678192576BC2300896DC5 /* ListViewCell.swift */; };
-		75844AC1EA5985D2228AA0B1 /* Pods_Tutorial3_Navigation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E133CCE67F94541558512296 /* Pods_Tutorial3_Navigation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,12 +39,11 @@
 		0726A9BF257EC9C8002EFA33 /* ListViewActionsDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewActionsDelegate.swift; sourceTree = "<group>"; };
 		075E2A6A2578ECAA0016810B /* UsersService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersService.swift; sourceTree = "<group>"; };
 		0772F95E257D0C89004A1284 /* ListViewCategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewCategoryRow.swift; sourceTree = "<group>"; };
-		0772F962257D39EE004A1284 /* Netflix.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Netflix.jpg; path = Tutorial3_Navigation/Netflix.jpg; sourceTree = SOURCE_ROOT; };
 		0772F965257D3B0A004A1284 /* Godfather.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Godfather.jpg; path = ../../../../Downloads/Godfather.jpg; sourceTree = "<group>"; };
 		0772F96B257E313A004A1284 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		07C6C48D2577E3B30018B66F /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		07C6C4952577E63E0018B66F /* HomeViewActionsDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewActionsDelegate.swift; sourceTree = "<group>"; };
-		07E6772A2575532000896DC5 /* Tutorial3_Navigation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tutorial3_Navigation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		07E6772A2575532000896DC5 /* iOS_Trening1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_Trening1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07E6772D2575532000896DC5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		07E6772F2575532000896DC5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		07E677312575532000896DC5 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
@@ -61,9 +58,8 @@
 		07E6775925756B6700896DC5 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		07E6776E2576594A00896DC5 /* UIView+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Ext.swift"; sourceTree = "<group>"; };
 		07E678192576BC2300896DC5 /* ListViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewCell.swift; sourceTree = "<group>"; };
-		62156CE3C9E90C5009FE11D8 /* Pods-Tutorial3_Navigation.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tutorial3_Navigation.release.xcconfig"; path = "Target Support Files/Pods-Tutorial3_Navigation/Pods-Tutorial3_Navigation.release.xcconfig"; sourceTree = "<group>"; };
-		B8527C0ABA79111A8DCA7364 /* Pods-Tutorial3_Navigation.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tutorial3_Navigation.debug.xcconfig"; path = "Target Support Files/Pods-Tutorial3_Navigation/Pods-Tutorial3_Navigation.debug.xcconfig"; sourceTree = "<group>"; };
-		E133CCE67F94541558512296 /* Pods_Tutorial3_Navigation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Tutorial3_Navigation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2120970612D3BDA9C096A4FA /* Pods-iOS_Trening1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS_Trening1.release.xcconfig"; path = "Target Support Files/Pods-iOS_Trening1/Pods-iOS_Trening1.release.xcconfig"; sourceTree = "<group>"; };
+		DC0ABDBAA73F061294C5B7F6 /* Pods-iOS_Trening1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS_Trening1.debug.xcconfig"; path = "Target Support Files/Pods-iOS_Trening1/Pods-iOS_Trening1.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,7 +67,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				75844AC1EA5985D2228AA0B1 /* Pods_Tutorial3_Navigation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -108,7 +103,6 @@
 			isa = PBXGroup;
 			children = (
 				0772F965257D3B0A004A1284 /* Godfather.jpg */,
-				0772F962257D39EE004A1284 /* Netflix.jpg */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -142,22 +136,22 @@
 		07E677212575532000896DC5 = {
 			isa = PBXGroup;
 			children = (
-				07E6772C2575532000896DC5 /* Tutorial3_Navigation */,
+				07E6772C2575532000896DC5 /* iOS_Trening1_Navigation */,
 				07E6772B2575532000896DC5 /* Products */,
-				4E266B0AE3C8B45BDDA3871E /* Pods */,
 				EAA08829E216C2A090C2702D /* Frameworks */,
+				18B4806242BF21E3D32AC427 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
 		07E6772B2575532000896DC5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				07E6772A2575532000896DC5 /* Tutorial3_Navigation.app */,
+				07E6772A2575532000896DC5 /* iOS_Trening1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		07E6772C2575532000896DC5 /* Tutorial3_Navigation */ = {
+		07E6772C2575532000896DC5 /* iOS_Trening1_Navigation */ = {
 			isa = PBXGroup;
 			children = (
 				071264D9257EBA71005AD968 /* Views */,
@@ -172,7 +166,7 @@
 				07E677382575532300896DC5 /* LaunchScreen.storyboard */,
 				07E6773B2575532300896DC5 /* Info.plist */,
 			);
-			path = Tutorial3_Navigation;
+			path = iOS_Trening1_Navigation;
 			sourceTree = "<group>";
 		};
 		07E6775C25756B7F00896DC5 /* loginScreeen */ = {
@@ -240,11 +234,11 @@
 			path = Extensions;
 			sourceTree = "<group>";
 		};
-		4E266B0AE3C8B45BDDA3871E /* Pods */ = {
+		18B4806242BF21E3D32AC427 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				B8527C0ABA79111A8DCA7364 /* Pods-Tutorial3_Navigation.debug.xcconfig */,
-				62156CE3C9E90C5009FE11D8 /* Pods-Tutorial3_Navigation.release.xcconfig */,
+				DC0ABDBAA73F061294C5B7F6 /* Pods-iOS_Trening1.debug.xcconfig */,
+				2120970612D3BDA9C096A4FA /* Pods-iOS_Trening1.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -252,7 +246,6 @@
 		EAA08829E216C2A090C2702D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				E133CCE67F94541558512296 /* Pods_Tutorial3_Navigation.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -260,9 +253,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		07E677292575532000896DC5 /* Tutorial3_Navigation */ = {
+		07E677292575532000896DC5 /* iOS_Trening1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 07E6773E2575532300896DC5 /* Build configuration list for PBXNativeTarget "Tutorial3_Navigation" */;
+			buildConfigurationList = 07E6773E2575532300896DC5 /* Build configuration list for PBXNativeTarget "iOS_Trening1" */;
 			buildPhases = (
 				8BCA561CE197409BE3FECDCC /* [CP] Check Pods Manifest.lock */,
 				07E677262575532000896DC5 /* Sources */,
@@ -274,9 +267,9 @@
 			);
 			dependencies = (
 			);
-			name = Tutorial3_Navigation;
+			name = iOS_Trening1;
 			productName = Tutorial3_Navigation;
-			productReference = 07E6772A2575532000896DC5 /* Tutorial3_Navigation.app */;
+			productReference = 07E6772A2575532000896DC5 /* iOS_Trening1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -293,7 +286,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 07E677252575532000896DC5 /* Build configuration list for PBXProject "Tutorial3_Navigation" */;
+			buildConfigurationList = 07E677252575532000896DC5 /* Build configuration list for PBXProject "iOS_Trening1" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -306,7 +299,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				07E677292575532000896DC5 /* Tutorial3_Navigation */,
+				07E677292575532000896DC5 /* iOS_Trening1 */,
 			);
 		};
 /* End PBXProject section */
@@ -316,7 +309,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0772F963257D39EE004A1284 /* Netflix.jpg in Resources */,
 				07E6773A2575532300896DC5 /* LaunchScreen.storyboard in Resources */,
 				07E677372575532300896DC5 /* Assets.xcassets in Resources */,
 				0772F966257D3B0A004A1284 /* Godfather.jpg in Resources */,
@@ -332,15 +324,15 @@
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Tutorial3_Navigation/Pods-Tutorial3_Navigation-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-iOS_Trening1/Pods-iOS_Trening1-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Tutorial3_Navigation/Pods-Tutorial3_Navigation-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-iOS_Trening1/Pods-iOS_Trening1-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Tutorial3_Navigation/Pods-Tutorial3_Navigation-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-iOS_Trening1/Pods-iOS_Trening1-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		8BCA561CE197409BE3FECDCC /* [CP] Check Pods Manifest.lock */ = {
@@ -358,7 +350,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Tutorial3_Navigation-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-iOS_Trening1-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -527,18 +519,18 @@
 		};
 		07E6773F2575532300896DC5 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B8527C0ABA79111A8DCA7364 /* Pods-Tutorial3_Navigation.debug.xcconfig */;
+			baseConfigurationReference = DC0ABDBAA73F061294C5B7F6 /* Pods-iOS_Trening1.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Tutorial3_Navigation/Info.plist;
+				INFOPLIST_FILE = iOS_Trening1_Navigation/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.decaysoft.Tutorial3-Navigation";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.decaysoft.iOS-Trening1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -547,18 +539,18 @@
 		};
 		07E677402575532300896DC5 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 62156CE3C9E90C5009FE11D8 /* Pods-Tutorial3_Navigation.release.xcconfig */;
+			baseConfigurationReference = 2120970612D3BDA9C096A4FA /* Pods-iOS_Trening1.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Tutorial3_Navigation/Info.plist;
+				INFOPLIST_FILE = iOS_Trening1_Navigation/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.decaysoft.Tutorial3-Navigation";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.decaysoft.iOS-Trening1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -568,7 +560,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		07E677252575532000896DC5 /* Build configuration list for PBXProject "Tutorial3_Navigation" */ = {
+		07E677252575532000896DC5 /* Build configuration list for PBXProject "iOS_Trening1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				07E6773C2575532300896DC5 /* Debug */,
@@ -577,7 +569,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		07E6773E2575532300896DC5 /* Build configuration list for PBXNativeTarget "Tutorial3_Navigation" */ = {
+		07E6773E2575532300896DC5 /* Build configuration list for PBXNativeTarget "iOS_Trening1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				07E6773F2575532300896DC5 /* Debug */,
